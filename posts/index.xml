@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Ortus&#39;s blog</title>
+        <link>https://example.com/posts/</link>
+        <description>所有文章 | Ortus&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2542404415@qq.com (Ortus)</managingEditor>
+            <webMaster>2542404415@qq.com (Ortus)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 13:47:53 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>在vue中使用高德地图api</title>
+    <link>https://example.com/%E5%9C%A8vue%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BEapi/</link>
+    <pubDate>Tue, 15 Feb 2022 13:47:53 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/%E5%9C%A8vue%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BEapi/</guid>
+    <description><![CDATA[在vue中使用高德地图api ​ 1 创建项目 1 2 vue init webpack gaode-demo #vue2 版本 ​ 2 安装依赖 1 2 #安装高德官方的loader:amap-jsapi-loader npm]]></description>
+</item><item>
+    <title>一个测试网页</title>
+    <link>https://example.com/%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%BD%91%E9%A1%B5/</link>
+    <pubDate>Tue, 15 Feb 2022 13:43:13 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%BD%91%E9%A1%B5/</guid>
+    <description><![CDATA[网页测试 方便测试使用]]></description>
+</item></channel>
+</rss>
