@@ -4,9 +4,16 @@
         <link>https://example.com/</link>
         <description>简单的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2542404415@qq.com (Ortus)</managingEditor>
-            <webMaster>2542404415@qq.com (Ortus)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 13:47:53 &#43;0800</lastBuildDate>
+            <webMaster>2542404415@qq.com (Ortus)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 19:01:10 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Springboot基础 实现简单的登录</title>
+    <link>https://example.com/springboot%E5%9F%BA%E7%A1%80-%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E7%99%BB%E5%BD%95/</link>
+    <pubDate>Tue, 15 Feb 2022 19:01:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/springboot%E5%9F%BA%E7%A1%80-%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E7%99%BB%E5%BD%95/</guid>
+    <description><![CDATA[yml的数据绑定需要使用@ConfigurationProperties注解进行绑定，然后在使用的时候可以使用@Autowired自动注入。]]></description>
+</item><item>
     <title>在vue中使用高德地图api</title>
     <link>https://example.com/%E5%9C%A8vue%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BEapi/</link>
     <pubDate>Tue, 15 Feb 2022 13:47:53 &#43;0800</pubDate>
