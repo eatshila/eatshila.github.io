@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eatshila.github.io/about/</loc>
+    <lastmod>2022-02-15T09:39:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://eatshila.github.io/home/first/</loc>
     <lastmod>2022-02-15T09:32:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
